@@ -1,0 +1,78 @@
+.container{
+    margin: 90px 113px;
+}
+.navbar img{
+    width: 100px;
+}
+.navbar{
+    background-color: rgba(127, 255, 212, 0.212);
+}
+.sliderpic{
+    background-color: rgba(127, 255, 212, 0.212);
+}
+.sliderpic img{
+    width: 200px;
+}
+span{
+    /* color: rgb(35, 136, 35) */
+}
+button{
+    border-radius: 5px;
+}
+.mynav{
+    left: 125px;
+    right: 108px;
+}
+.mycarouselpic{
+    height: 300px;
+}
+.catimg {
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    
+}
+.category{
+   
+    align-items: center;
+    margin: 10px;
+    background-color: rgba(127, 255, 212, 0.212);
+    border-radius: 10px;
+    
+}
+.category:hover{
+    box-shadow: 10px 20px 20px gray;
+    background-color: white;
+}
+.iconpic{
+    height: 30px;
+}
+
+.cardimg{
+
+    height: 200px;
+    width: 300px;
+}
+.card{
+    box-shadow: 10px 20px 10px gray;
+    border-radius: 15px;
+    
+}
+
+.card:hover{
+    border: 3px palevioletred solid;
+}
+#blog img{
+    width: 100px;
+}
+#others{
+    background-color: rgb(9, 3, 41);
+    color: rgb(245, 244, 240);
+    height: 300px;
+}
+footer{
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
